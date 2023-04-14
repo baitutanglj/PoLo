@@ -1,0 +1,255 @@
+source,metaedge,target,source_metanode,source_identifier,source_local_id,source_global_id,source_name,source_abbreviation,target_metanode,target_identifier,target_local_id,target_global_id,target_name,target_abbreviation,metaedge_global_id
+Compound::DB00588,CmC,Compound::DB00938,Compound,DB00588,Compound_451,13623,Fluticasone Propionate,C,Compound,DB00938,Compound_790,13962,Salmeterol,C,24
+Compound::DB00983,CmC,Compound::DB00986,Compound,DB00983,Compound_833,14005,Formoterol,C,Compound,DB00986,Compound_836,14008,Glycopyrrolate,C,24
+Compound::DB01001,CmC,Compound::DB00332,Compound,DB01001,Compound_851,14023,Salbutamol,C,Compound,DB00332,Compound_214,13386,Ipratropium bromide,C,24
+Compound::DB01064,CmC,Compound::DB00388,Compound,DB01064,Compound_910,14082,Isoprenaline,C,Compound,DB00388,Compound_265,13437,Phenylephrine,C,24
+Compound::DB01222,CmC,Compound::DB00983,Compound,DB01222,Compound_1062,14234,Budesonide,C,Compound,DB00983,Compound_833,14005,Formoterol,C,24
+Compound::DB08897,CmC,Compound::DB00983,Compound,DB08897,Compound_1482,14654,Aclidinium,C,Compound,DB00983,Compound_833,14005,Formoterol,C,24
+Compound::DB00448,CmC,Compound::DB00788,Compound,DB00448,Compound_321,13493,Lansoprazole,C,Compound,DB00788,Compound_647,13819,Naproxen,C,24
+Compound::DB01075,CmC,Compound::DB00788,Compound,DB01075,Compound_921,14093,Diphenhydramine,C,Compound,DB00788,Compound_647,13819,Naproxen,C,24
+Compound::DB00736,CmC,Compound::DB00788,Compound,DB00736,Compound_597,13769,Esomeprazole,C,Compound,DB00788,Compound_647,13819,Naproxen,C,24
+Compound::DB00852,CmC,Compound::DB00427,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,Compound,DB00427,Compound_302,13474,Triprolidine,C,24
+Compound::DB00945,CmC,Compound::DB00975,Compound,DB00945,Compound_797,13969,Acetylsalicylic acid,C,Compound,DB00975,Compound_825,13997,Dipyridamole,C,24
+Compound::DB00945,CmC,Compound::DB00647,Compound,DB00945,Compound_797,13969,Acetylsalicylic acid,C,Compound,DB00647,Compound_509,13681,Dextropropoxyphene,C,24
+Compound::DB00316,CmC,Compound::DB00647,Compound,DB00316,Compound_199,13371,Acetaminophen,C,Compound,DB00647,Compound_509,13681,Dextropropoxyphene,C,24
+Compound::DB00945,CmC,Compound::DB00338,Compound,DB00945,Compound_797,13969,Acetylsalicylic acid,C,Compound,DB00338,Compound_220,13392,Omeprazole,C,24
+Compound::DB00945,CmC,Compound::DB00241,Compound,DB00945,Compound_797,13969,Acetylsalicylic acid,C,Compound,DB00241,Compound_126,13298,Butalbital,C,24
+Compound::DB00316,CmC,Compound::DB00241,Compound,DB00316,Compound_199,13371,Acetaminophen,C,Compound,DB00241,Compound_126,13298,Butalbital,C,24
+Compound::DB00945,CmC,Compound::DB00395,Compound,DB00945,Compound_797,13969,Acetylsalicylic acid,C,Compound,DB00395,Compound_272,13444,Carisoprodol,C,24
+Compound::DB00945,CmC,Compound::DB00371,Compound,DB00945,Compound_797,13969,Acetylsalicylic acid,C,Compound,DB00371,Compound_251,13423,Meprobamate,C,24
+Compound::DB00286,CmC,Compound::DB00371,Compound,DB00286,Compound_170,13342,Conjugated Estrogens,C,Compound,DB00371,Compound_251,13423,Meprobamate,C,24
+Compound::DB00945,CmC,Compound::DB00423,Compound,DB00945,Compound_797,13969,Acetylsalicylic acid,C,Compound,DB00423,Compound_298,13470,Methocarbamol,C,24
+Compound::DB00945,CmC,Compound::DB00497,Compound,DB00945,Compound_797,13969,Acetylsalicylic acid,C,Compound,DB00497,Compound_368,13540,Oxycodone,C,24
+Compound::DB00704,CmC,Compound::DB00497,Compound,DB00704,Compound_565,13737,Naltrexone,C,Compound,DB00497,Compound_368,13540,Oxycodone,C,24
+Compound::DB00316,CmC,Compound::DB00497,Compound,DB00316,Compound_199,13371,Acetaminophen,C,Compound,DB00497,Compound_368,13540,Oxycodone,C,24
+Compound::DB01050,CmC,Compound::DB00497,Compound,DB01050,Compound_897,14069,Ibuprofen,C,Compound,DB00497,Compound_368,13540,Oxycodone,C,24
+Compound::DB01183,CmC,Compound::DB00497,Compound,DB01183,Compound_1024,14196,Naloxone,C,Compound,DB00497,Compound_368,13540,Oxycodone,C,24
+Compound::DB00945,CmC,Compound::DB00175,Compound,DB00945,Compound_797,13969,Acetylsalicylic acid,C,Compound,DB00175,Compound_62,13234,Pravastatin,C,24
+Compound::DB00945,CmC,Compound::DB00652,Compound,DB00945,Compound_797,13969,Acetylsalicylic acid,C,Compound,DB00652,Compound_514,13686,Pentazocine,C,24
+Compound::DB00316,CmC,Compound::DB00652,Compound,DB00316,Compound_199,13371,Acetaminophen,C,Compound,DB00652,Compound_514,13686,Pentazocine,C,24
+Compound::DB01183,CmC,Compound::DB00652,Compound,DB01183,Compound_1024,14196,Naloxone,C,Compound,DB00652,Compound_514,13686,Pentazocine,C,24
+Compound::DB01114,CmC,Compound::DB00852,Compound,DB01114,Compound_958,14130,Chlorphenamine,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB01050,CmC,Compound::DB00852,Compound,DB01050,Compound_897,14069,Ibuprofen,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB01075,CmC,Compound::DB00852,Compound,DB01075,Compound_921,14093,Diphenhydramine,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB00874,CmC,Compound::DB00852,Compound,DB00874,Compound_731,13903,Guaifenesin,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB00788,CmC,Compound::DB00852,Compound,DB00788,Compound_647,13819,Naproxen,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB00950,CmC,Compound::DB00852,Compound,DB00950,Compound_802,13974,Fexofenadine,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB00405,CmC,Compound::DB00852,Compound,DB00405,Compound_282,13454,Dexbrompheniramine,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB00341,CmC,Compound::DB00852,Compound,DB00341,Compound_223,13395,Cetirizine,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB00967,CmC,Compound::DB00852,Compound,DB00967,Compound_818,13990,Desloratadine,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB00455,CmC,Compound::DB00852,Compound,DB00455,Compound_328,13500,Loratadine,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB00835,CmC,Compound::DB00852,Compound,DB00835,Compound_694,13866,Brompheniramine,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB00719,CmC,Compound::DB00852,Compound,DB00719,Compound_580,13752,Azatadine,C,Compound,DB00852,Compound_709,13881,Pseudoephedrine,C,24
+Compound::DB01114,CmC,Compound::DB00397,Compound,DB01114,Compound_958,14130,Chlorphenamine,C,Compound,DB00397,Compound_274,13446,Phenylpropanolamine,C,24
+Compound::DB01114,CmC,Compound::DB00956,Compound,DB01114,Compound_958,14130,Chlorphenamine,C,Compound,DB00956,Compound_808,13980,Hydrocodone,C,24
+Compound::DB01114,CmC,Compound::DB00318,Compound,DB01114,Compound_958,14130,Chlorphenamine,C,Compound,DB00318,Compound_201,13373,Codeine,C,24
+Compound::DB00316,CmC,Compound::DB00318,Compound,DB00316,Compound_199,13371,Acetaminophen,C,Compound,DB00318,Compound_201,13373,Codeine,C,24
+Compound::DB01237,CmC,Compound::DB00318,Compound,DB01237,Compound_1076,14248,Bromodiphenhydramine,C,Compound,DB00318,Compound_201,13373,Codeine,C,24
+Compound::DB00295,CmC,Compound::DB00704,Compound,DB00295,Compound_179,13351,Morphine,C,Compound,DB00704,Compound_565,13737,Naltrexone,C,24
+Compound::DB01156,CmC,Compound::DB00704,Compound,DB01156,Compound_998,14170,Bupropion,C,Compound,DB00704,Compound_565,13737,Naltrexone,C,24
+Compound::DB00999,CmC,Compound::DB00571,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00571,Compound_436,13608,Propranolol,C,24
+Compound::DB00999,CmC,Compound::DB00384,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00384,Compound_262,13434,Triamterene,C,24
+Compound::DB00999,CmC,Compound::DB00264,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00264,Compound_149,13321,Metoprolol,C,24
+Compound::DB00310,CmC,Compound::DB00264,Compound,DB00310,Compound_194,13366,Chlorthalidone,C,Compound,DB00264,Compound_149,13321,Metoprolol,C,24
+Compound::DB00999,CmC,Compound::DB00881,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00881,Compound_738,13910,Quinapril,C,24
+Compound::DB00999,CmC,Compound::DB00421,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00421,Compound_296,13468,Spironolactone,C,24
+Compound::DB00999,CmC,Compound::DB00968,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00968,Compound_819,13991,Methyldopa,C,24
+Compound::DB00880,CmC,Compound::DB00968,Compound,DB00880,Compound_737,13909,Chlorothiazide,C,Compound,DB00968,Compound_819,13991,Methyldopa,C,24
+Compound::DB00999,CmC,Compound::DB01029,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB01029,Compound_878,14050,Irbesartan,C,24
+Compound::DB00999,CmC,Compound::DB00275,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00275,Compound_159,13331,Olmesartan,C,24
+Compound::DB00381,CmC,Compound::DB00275,Compound,DB00381,Compound_260,13432,Amlodipine,C,Compound,DB00275,Compound_159,13331,Olmesartan,C,24
+Compound::DB00999,CmC,Compound::DB00177,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00177,Compound_64,13236,Valsartan,C,24
+Compound::DB00381,CmC,Compound::DB00177,Compound,DB00381,Compound_260,13432,Amlodipine,C,Compound,DB00177,Compound_64,13236,Valsartan,C,24
+Compound::DB04861,CmC,Compound::DB00177,Compound,DB04861,Compound_1304,14476,Nebivolol,C,Compound,DB00177,Compound_64,13236,Valsartan,C,24
+Compound::DB00999,CmC,Compound::DB00206,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00206,Compound_92,13264,Reserpine,C,24
+Compound::DB01275,CmC,Compound::DB00206,Compound,DB01275,Compound_1107,14279,Hydralazine,C,Compound,DB00206,Compound_92,13264,Reserpine,C,24
+Compound::DB00310,CmC,Compound::DB00206,Compound,DB00310,Compound_194,13366,Chlorthalidone,C,Compound,DB00206,Compound_92,13264,Reserpine,C,24
+Compound::DB01324,CmC,Compound::DB00206,Compound,DB01324,Compound_1125,14297,Polythiazide,C,Compound,DB00206,Compound_92,13264,Reserpine,C,24
+Compound::DB00880,CmC,Compound::DB00206,Compound,DB00880,Compound_737,13909,Chlorothiazide,C,Compound,DB00206,Compound_92,13264,Reserpine,C,24
+Compound::DB00232,CmC,Compound::DB00206,Compound,DB00232,Compound_118,13290,Methyclothiazide,C,Compound,DB00206,Compound_92,13264,Reserpine,C,24
+Compound::DB00774,CmC,Compound::DB00206,Compound,DB00774,Compound_634,13806,Hydroflumethiazide,C,Compound,DB00206,Compound_92,13264,Reserpine,C,24
+Compound::DB01325,CmC,Compound::DB00206,Compound,DB01325,Compound_1126,14298,Quinethazone,C,Compound,DB00206,Compound_92,13264,Reserpine,C,24
+Compound::DB00999,CmC,Compound::DB00678,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00678,Compound_540,13712,Losartan,C,24
+Compound::DB00999,CmC,Compound::DB00722,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00722,Compound_583,13755,Lisinopril,C,24
+Compound::DB00999,CmC,Compound::DB00966,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00966,Compound_817,13989,Telmisartan,C,24
+Compound::DB00381,CmC,Compound::DB00966,Compound,DB00381,Compound_260,13432,Amlodipine,C,Compound,DB00966,Compound_817,13989,Telmisartan,C,24
+Compound::DB00999,CmC,Compound::DB00691,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00691,Compound_553,13725,Moexipril,C,24
+Compound::DB00999,CmC,Compound::DB00598,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00598,Compound_461,13633,Labetalol,C,24
+Compound::DB00999,CmC,Compound::DB00373,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00373,Compound_252,13424,Timolol,C,24
+Compound::DB00484,CmC,Compound::DB00373,Compound,DB00484,Compound_355,13527,Brimonidine,C,Compound,DB00373,Compound_252,13424,Timolol,C,24
+Compound::DB00869,CmC,Compound::DB00373,Compound,DB00869,Compound_726,13898,Dorzolamide,C,Compound,DB00373,Compound_252,13424,Timolol,C,24
+Compound::DB00999,CmC,Compound::DB00960,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,Compound,DB00960,Compound_812,13984,Pindolol,C,24
+Compound::DB00843,CmC,Compound::DB01043,Compound,DB00843,Compound_701,13873,Donepezil,C,Compound,DB01043,Compound_890,14062,Memantine,C,24
+Compound::DB00191,CmC,Compound::DB00273,Compound,DB00191,Compound_78,13250,Phentermine,C,Compound,DB00273,Compound_157,13329,Topiramate,C,24
+Compound::DB00190,CmC,Compound::DB01235,Compound,DB00190,Compound_77,13249,Carbidopa,C,Compound,DB01235,Compound_1074,14246,L-DOPA,C,24
+Compound::DB00316,CmC,Compound::DB01050,Compound,DB00316,Compound_199,13371,Acetaminophen,C,Compound,DB01050,Compound_897,14069,Ibuprofen,C,24
+Compound::DB01075,CmC,Compound::DB01050,Compound,DB01075,Compound_921,14093,Diphenhydramine,C,Compound,DB01050,Compound_897,14069,Ibuprofen,C,24
+Compound::DB00927,CmC,Compound::DB01050,Compound,DB00927,Compound_780,13952,Famotidine,C,Compound,DB01050,Compound_897,14069,Ibuprofen,C,24
+Compound::DB00316,CmC,Compound::DB00193,Compound,DB00316,Compound_199,13371,Acetaminophen,C,Compound,DB00193,Compound_80,13252,Tramadol,C,24
+Compound::DB00381,CmC,Compound::DB00542,Compound,DB00381,Compound_260,13432,Amlodipine,C,Compound,DB00542,Compound_407,13579,Benazepril,C,24
+Compound::DB00381,CmC,Compound::DB01076,Compound,DB00381,Compound_260,13432,Amlodipine,C,Compound,DB01076,Compound_922,14094,Atorvastatin,C,24
+Compound::DB00381,CmC,Compound::DB00482,Compound,DB00381,Compound_260,13432,Amlodipine,C,Compound,DB00482,Compound_353,13525,Celecoxib,C,24
+Compound::DB00381,CmC,Compound::DB00790,Compound,DB00381,Compound_260,13432,Amlodipine,C,Compound,DB00790,Compound_649,13821,Perindopril,C,24
+Compound::DB01275,CmC,Compound::DB00999,Compound,DB01275,Compound_1107,14279,Hydralazine,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB00584,CmC,Compound::DB00999,Compound,DB00584,Compound_447,13619,Enalapril,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB00594,CmC,Compound::DB00999,Compound,DB00594,Compound_457,13629,Amiloride,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB00796,CmC,Compound::DB00999,Compound,DB00796,Compound_655,13827,Candesartan,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB00542,CmC,Compound::DB00999,Compound,DB00542,Compound_407,13579,Benazepril,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB00612,CmC,Compound::DB00999,Compound,DB00612,Compound_475,13647,Bisoprolol,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB01197,CmC,Compound::DB00999,Compound,DB01197,Compound_1037,14209,Captopril,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB01089,CmC,Compound::DB00999,Compound,DB01089,Compound_934,14106,Deserpidine,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB01170,CmC,Compound::DB00999,Compound,DB01170,Compound_1011,14183,Guanethidine,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB00492,CmC,Compound::DB00999,Compound,DB00492,Compound_363,13535,Fosinopril,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB00876,CmC,Compound::DB00999,Compound,DB00876,Compound_733,13905,Eprosartan,C,Compound,DB00999,Compound_849,14021,Hydrochlorothiazide,C,24
+Compound::DB01275,CmC,Compound::DB00883,Compound,DB01275,Compound_1107,14279,Hydralazine,C,Compound,DB00883,Compound_740,13912,Isosorbide Dinitrate,C,24
+Compound::DB00783,CmC,Compound::DB00396,Compound,DB00783,Compound_643,13815,Estradiol,C,Compound,DB00396,Compound_273,13445,Progesterone,C,24
+Compound::DB00783,CmC,Compound::DB00367,Compound,DB00783,Compound_643,13815,Estradiol,C,Compound,DB00367,Compound_247,13419,Levonorgestrel,C,24
+Compound::DB00977,CmC,Compound::DB00367,Compound,DB00977,Compound_827,13999,Ethinyl Estradiol,C,Compound,DB00367,Compound_247,13419,Levonorgestrel,C,24
+Compound::DB00783,CmC,Compound::DB00717,Compound,DB00783,Compound_643,13815,Estradiol,C,Compound,DB00717,Compound_578,13750,Norethindrone,C,24
+Compound::DB00977,CmC,Compound::DB00717,Compound,DB00977,Compound_827,13999,Ethinyl Estradiol,C,Compound,DB00717,Compound_578,13750,Norethindrone,C,24
+Compound::DB01357,CmC,Compound::DB00717,Compound,DB01357,Compound_1151,14323,Mestranol,C,Compound,DB00717,Compound_578,13750,Norethindrone,C,24
+Compound::DB00783,CmC,Compound::DB00957,Compound,DB00783,Compound_643,13815,Estradiol,C,Compound,DB00957,Compound_809,13981,Norgestimate,C,24
+Compound::DB00977,CmC,Compound::DB00957,Compound,DB00977,Compound_827,13999,Ethinyl Estradiol,C,Compound,DB00957,Compound_809,13981,Norgestimate,C,24
+Compound::DB00514,CmC,Compound::DB00908,Compound,DB00514,Compound_382,13554,Dextromethorphan,C,Compound,DB00908,Compound_762,13934,Quinidine,C,24
+Compound::DB00514,CmC,Compound::DB01069,Compound,DB00514,Compound_382,13554,Dextromethorphan,C,Compound,DB01069,Compound_915,14087,Promethazine,C,24
+Compound::DB00454,CmC,Compound::DB01069,Compound,DB00454,Compound_327,13499,Pethidine,C,Compound,DB01069,Compound_915,14087,Promethazine,C,24
+Compound::DB00318,CmC,Compound::DB01069,Compound,DB00318,Compound_201,13373,Codeine,C,Compound,DB01069,Compound_915,14087,Promethazine,C,24
+Compound::DB00514,CmC,Compound::DB00874,Compound,DB00514,Compound_382,13554,Dextromethorphan,C,Compound,DB00874,Compound_731,13903,Guaifenesin,C,24
+Compound::DB00572,CmC,Compound::DB01081,Compound,DB00572,Compound_437,13609,Atropine,C,Compound,DB01081,Compound_926,14098,Diphenoxylate,C,24
+Compound::DB00572,CmC,Compound::DB00454,Compound,DB00572,Compound_437,13609,Atropine,C,Compound,DB00454,Compound_327,13499,Pethidine,C,24
+Compound::DB00572,CmC,Compound::DB01010,Compound,DB00572,Compound_437,13609,Atropine,C,Compound,DB01010,Compound_860,14032,Edrophonium,C,24
+Compound::DB00572,CmC,Compound::DB00733,Compound,DB00572,Compound_437,13609,Atropine,C,Compound,DB00733,Compound_594,13766,Pralidoxime,C,24
+Compound::DB00572,CmC,Compound::DB01501,Compound,DB00572,Compound_437,13609,Atropine,C,Compound,DB01501,Compound_1213,14385,Difenoxin,C,24
+Compound::DB01126,CmC,Compound::DB00706,Compound,DB01126,Compound_970,14142,Dutasteride,C,Compound,DB00706,Compound_567,13739,Tamsulosin,C,24
+Compound::DB01601,CmC,Compound::DB00503,Compound,DB01601,Compound_1245,14417,Lopinavir,C,Compound,DB00503,Compound_374,13546,Ritonavir,C,24
+Compound::DB00475,CmC,Compound::DB00771,Compound,DB00475,Compound_346,13518,Chlordiazepoxide,C,Compound,DB00771,Compound_631,13803,Clidinium,C,24
+Compound::DB00310,CmC,Compound::DB00575,Compound,DB00310,Compound_194,13366,Chlorthalidone,C,Compound,DB00575,Compound_439,13611,Clonidine,C,24
+Compound::DB00698,CmC,Compound::DB00698,Compound,DB00698,Compound_560,13732,Nitrofurantoin,C,Compound,DB00698,Compound_560,13732,Nitrofurantoin,C,24
+Compound::DB01324,CmC,Compound::DB00457,Compound,DB01324,Compound_1125,14297,Polythiazide,C,Compound,DB00457,Compound_330,13502,Prazosin,C,24
+Compound::DB00472,CmC,Compound::DB00334,Compound,DB00472,Compound_343,13515,Fluoxetine,C,Compound,DB00334,Compound_216,13388,Olanzapine,C,24
+Compound::DB00338,CmC,Compound::DB01390,Compound,DB00338,Compound_220,13392,Omeprazole,C,Compound,DB01390,Compound_1165,14337,Sodium bicarbonate,C,24
+Compound::DB00415,CmC,Compound::DB01032,Compound,DB00415,Compound_291,13463,Ampicillin,C,Compound,DB01032,Compound_881,14053,Probenecid,C,24
+Compound::DB01394,CmC,Compound::DB01032,Compound,DB01394,Compound_1168,14340,Colchicine,C,Compound,DB01032,Compound_881,14053,Probenecid,C,24
+Compound::DB00951,CmC,Compound::DB01045,Compound,DB00951,Compound_803,13975,Isoniazid,C,Compound,DB01045,Compound_892,14064,Rifampicin,C,24
+Compound::DB00977,CmC,Compound::DB06713,Compound,DB00977,Compound_827,13999,Ethinyl Estradiol,C,Compound,DB06713,Compound_1401,14573,Norelgestromin,C,24
+Compound::DB00977,CmC,Compound::DB00294,Compound,DB00977,Compound_827,13999,Ethinyl Estradiol,C,Compound,DB00294,Compound_178,13350,Etonogestrel,C,24
+Compound::DB00977,CmC,Compound::DB00823,Compound,DB00977,Compound_827,13999,Ethinyl Estradiol,C,Compound,DB00823,Compound_682,13854,Ethynodiol,C,24
+Compound::DB00741,CmC,Compound::DB00994,Compound,DB00741,Compound_602,13774,Hydrocortisone,C,Compound,DB00994,Compound_844,14016,Neomycin,C,24
+Compound::DB00846,CmC,Compound::DB00994,Compound,DB00846,Compound_704,13876,Flurandrenolide,C,Compound,DB00994,Compound_844,14016,Neomycin,C,24
+Compound::DB00959,CmC,Compound::DB00994,Compound,DB00959,Compound_811,13983,Methylprednisolone,C,Compound,DB00994,Compound_844,14016,Neomycin,C,24
+Compound::DB00591,CmC,Compound::DB00994,Compound,DB00591,Compound_454,13626,Fluocinolone Acetonide,C,Compound,DB00994,Compound_844,14016,Neomycin,C,24
+Compound::DB01234,CmC,Compound::DB00994,Compound,DB01234,Compound_1073,14245,Dexamethasone,C,Compound,DB00994,Compound_844,14016,Neomycin,C,24
+Compound::DB00741,CmC,Compound::DB00759,Compound,DB00741,Compound_602,13774,Hydrocortisone,C,Compound,DB00759,Compound_620,13792,Tetracycline,C,24
+Compound::DB00721,CmC,Compound::DB00759,Compound,DB00721,Compound_582,13754,Procaine,C,Compound,DB00759,Compound_620,13792,Tetracycline,C,24
+Compound::DB00741,CmC,Compound::DB00781,Compound,DB00741,Compound_602,13774,Hydrocortisone,C,Compound,DB00781,Compound_641,13813,Polymyxin B Sulfate,C,24
+Compound::DB00994,CmC,Compound::DB00781,Compound,DB00994,Compound_844,14016,Neomycin,C,Compound,DB00781,Compound_641,13813,Polymyxin B Sulfate,C,24
+Compound::DB00626,CmC,Compound::DB00781,Compound,DB00626,Compound_489,13661,Bacitracin,C,Compound,DB00781,Compound_641,13813,Polymyxin B Sulfate,C,24
+Compound::DB00446,CmC,Compound::DB00781,Compound,DB00446,Compound_320,13492,Chloramphenicol,C,Compound,DB00781,Compound_641,13813,Polymyxin B Sulfate,C,24
+Compound::DB00595,CmC,Compound::DB00781,Compound,DB00595,Compound_458,13630,Oxytetracycline,C,Compound,DB00781,Compound_641,13813,Polymyxin B Sulfate,C,24
+Compound::DB00443,CmC,Compound::DB00257,Compound,DB00443,Compound_317,13489,Betamethasone,C,Compound,DB00257,Compound_142,13314,Clotrimazole,C,24
+Compound::DB00443,CmC,Compound::DB00443,Compound,DB00443,Compound_317,13489,Betamethasone,C,Compound,DB00443,Compound_317,13489,Betamethasone,C,24
+Compound::DB00443,CmC,Compound::DB02300,Compound,DB00443,Compound_317,13489,Betamethasone,C,Compound,DB02300,Compound_1275,14447,Calcipotriol,C,24
+Compound::DB00281,CmC,Compound::DB00750,Compound,DB00281,Compound_165,13337,Lidocaine,C,Compound,DB00750,Compound_611,13783,Prilocaine,C,24
+Compound::DB00668,CmC,Compound::DB00750,Compound,DB00668,Compound_530,13702,Epinephrine,C,Compound,DB00750,Compound_611,13783,Prilocaine,C,24
+Compound::DB00281,CmC,Compound::DB00595,Compound,DB00281,Compound_165,13337,Lidocaine,C,Compound,DB00595,Compound_458,13630,Oxytetracycline,C,24
+Compound::DB00646,CmC,Compound::DB00620,Compound,DB00646,Compound_508,13680,Nystatin,C,Compound,DB00620,Compound_483,13655,Triamcinolone,C,24
+Compound::DB00994,CmC,Compound::DB00620,Compound,DB00994,Compound_844,14016,Neomycin,C,Compound,DB00620,Compound_483,13655,Triamcinolone,C,24
+Compound::DB00787,CmC,Compound::DB00741,Compound,DB00787,Compound_646,13818,Aciclovir,C,Compound,DB00741,Compound_602,13774,Hydrocortisone,C,24
+Compound::DB03166,CmC,Compound::DB00741,Compound,DB03166,Compound_1281,14453,Acetic acid,C,Compound,DB00741,Compound_602,13774,Hydrocortisone,C,24
+Compound::DB00537,CmC,Compound::DB00741,Compound,DB00537,Compound_402,13574,Ciprofloxacin,C,Compound,DB00741,Compound_602,13774,Hydrocortisone,C,24
+Compound::DB00921,CmC,Compound::DB01183,Compound,DB00921,Compound_775,13947,Buprenorphine,C,Compound,DB01183,Compound_1024,14196,Naloxone,C,24
+Compound::DB00207,CmC,Compound::DB00685,Compound,DB00207,Compound_93,13265,Azithromycin,C,Compound,DB00685,Compound_547,13719,Trovafloxacin,C,24
+Compound::DB00446,CmC,Compound::DB00860,Compound,DB00446,Compound_320,13492,Chloramphenicol,C,Compound,DB00860,Compound_717,13889,Prednisolone,C,24
+Compound::DB01060,CmC,Compound::DB00766,Compound,DB01060,Compound_906,14078,Amoxicillin,C,Compound,DB00766,Compound_627,13799,Clavulanate,C,24
+Compound::DB01190,CmC,Compound::DB00755,Compound,DB01190,Compound_1030,14202,Clindamycin,C,Compound,DB00755,Compound_616,13788,Tretinoin,C,24
+Compound::DB00898,CmC,Compound::DB00878,Compound,DB00898,Compound_753,13925,Ethanol,C,Compound,DB00878,Compound_735,13907,Chlorhexidine,C,24
+Compound::DB00668,CmC,Compound::DB00281,Compound,DB00668,Compound_530,13702,Epinephrine,C,Compound,DB00281,Compound_165,13337,Lidocaine,C,24
+Compound::DB00297,CmC,Compound::DB00281,Compound,DB00297,Compound_181,13353,Bupivacaine,C,Compound,DB00281,Compound_165,13337,Lidocaine,C,24
+Compound::DB01234,CmC,Compound::DB00281,Compound,DB01234,Compound_1073,14245,Dexamethasone,C,Compound,DB00281,Compound_165,13337,Lidocaine,C,24
+Compound::DB01212,CmC,Compound::DB00281,Compound,DB01212,Compound_1052,14224,Ceftriaxone,C,Compound,DB00281,Compound_165,13337,Lidocaine,C,24
+Compound::DB00668,CmC,Compound::DB08987,Compound,DB00668,Compound_530,13702,Epinephrine,C,Compound,DB08987,Compound_1520,14692,Etidocaine,C,24
+Compound::DB00668,CmC,Compound::DB00721,Compound,DB00668,Compound_530,13702,Epinephrine,C,Compound,DB00721,Compound_582,13754,Procaine,C,24
+Compound::DB00271,CmC,Compound::DB00271,Compound,DB00271,Compound_155,13327,Diatrizoate,C,Compound,DB00271,Compound_155,13327,Diatrizoate,C,24
+Compound::DB00271,CmC,Compound::DB04711,Compound,DB00271,Compound_155,13327,Diatrizoate,C,Compound,DB04711,Compound_1290,14462,Iodipamide,C,24
+Compound::DB06707,CmC,Compound::DB00961,Compound,DB06707,Compound_1395,14567,Levonordefrin,C,Compound,DB00961,Compound_813,13985,Mepivacaine,C,24
+Compound::DB09009,CmC,Compound::DB00668,Compound,DB09009,Compound_1532,14704,Articaine,C,Compound,DB00668,Compound_530,13702,Epinephrine,C,24
+Compound::DB00297,CmC,Compound::DB00668,Compound,DB00297,Compound_181,13353,Bupivacaine,C,Compound,DB00668,Compound_530,13702,Epinephrine,C,24
+Compound::DB01015,CmC,Compound::DB00440,Compound,DB01015,Compound_865,14037,Sulfamethoxazole,C,Compound,DB00440,Compound_314,13486,Trimethoprim,C,24
+Compound::DB00781,CmC,Compound::DB00440,Compound,DB00781,Compound_641,13813,Polymyxin B Sulfate,C,Compound,DB00440,Compound_314,13486,Trimethoprim,C,24
+Compound::DB01234,CmC,Compound::DB00684,Compound,DB01234,Compound_1073,14245,Dexamethasone,C,Compound,DB00684,Compound_546,13718,Tobramycin,C,24
+Compound::DB00324,CmC,Compound::DB00684,Compound,DB00324,Compound_207,13379,Fluorometholone,C,Compound,DB00684,Compound_546,13718,Tobramycin,C,24
+Compound::DB00450,CmC,Compound::DB00813,Compound,DB00450,Compound_323,13495,Droperidol,C,Compound,DB00813,Compound_672,13844,Fentanyl,C,24
+Compound::DB00319,CmC,Compound::DB01606,Compound,DB00319,Compound_202,13374,Piperacillin,C,Compound,DB01606,Compound_1250,14422,Tazobactam,C,24
+Compound::DB01597,CmC,Compound::DB01598,Compound,DB01597,Compound_1241,14413,Cilastatin,C,Compound,DB01598,Compound_1242,14414,Imipenem,C,24
+Compound::DB00766,CmC,Compound::DB01607,Compound,DB00766,Compound_627,13799,Clavulanate,C,Compound,DB01607,Compound_1251,14423,Ticarcillin,C,24
+Compound::DB01764,CmC,Compound::DB01369,Compound,DB01764,Compound_1273,14445,Dalfopristin,C,Compound,DB01369,Compound_1159,14331,Quinupristin,C,24
+Compound::DB00596,CmC,Compound::DB00799,Compound,DB00596,Compound_459,13631,Halobetasol Propionate,C,Compound,DB00799,Compound_658,13830,Tazarotene,C,24
+Compound::DB00986,CmC,Compound::DB05039,Compound,DB00986,Compound_836,14008,Glycopyrrolate,C,Compound,DB05039,Compound_1325,14497,Indacaterol,C,24
+Compound::DB00987,CmC,Compound::DB00694,Compound,DB00987,Compound_837,14009,Cytarabine,C,Compound,DB00694,Compound_556,13728,Daunorubicin,C,24
+Compound::DB00892,CmC,Compound::DB00693,Compound,DB00892,Compound_748,13920,Oxybuprocaine,C,Compound,DB00693,Compound_555,13727,Fluorescein,C,24
+Compound::DB00484,CmC,Compound::DB01194,Compound,DB00484,Compound_355,13527,Brimonidine,C,Compound,DB01194,Compound_1034,14206,Brinzolamide,C,24
+Compound::DB06711,CmC,Compound::DB01620,Compound,DB06711,Compound_1399,14571,Naphazoline,C,Compound,DB01620,Compound_1263,14435,Pheniramine,C,24
+Compound::DB08799,CmC,Compound::DB06711,Compound,DB08799,Compound_1440,14612,Antazoline,C,Compound,DB06711,Compound_1399,14571,Naphazoline,C,24
+Compound::DB03166,CmC,Compound::DB01260,Compound,DB03166,Compound_1281,14453,Acetic acid,C,Compound,DB01260,Compound_1097,14269,Desonide,C,24
+Compound::DB00537,CmC,Compound::DB00591,Compound,DB00537,Compound_402,13574,Ciprofloxacin,C,Compound,DB00591,Compound_454,13626,Fluocinolone Acetonide,C,24
+Compound::DB00537,CmC,Compound::DB01234,Compound,DB00537,Compound_402,13574,Ciprofloxacin,C,Compound,DB01234,Compound_1073,14245,Dexamethasone,C,24
+Compound::DB00537,CmC,Compound::DB00537,Compound,DB00537,Compound_402,13574,Ciprofloxacin,C,Compound,DB00537,Compound_402,13574,Ciprofloxacin,C,24
+Compound::DB06151,CmC,Compound::DB01064,Compound,DB06151,Compound_1342,14514,Acetylcysteine,C,Compound,DB01064,Compound_910,14082,Isoprenaline,C,24
+Compound::DB00972,CmC,Compound::DB00588,Compound,DB00972,Compound_822,13994,Azelastine,C,Compound,DB00588,Compound_451,13623,Fluticasone Propionate,C,24
+Compound::DB00201,CmC,Compound::DB00696,Compound,DB00201,Compound_87,13259,Caffeine,C,Compound,DB00696,Compound_558,13730,Ergotamine,C,24
+Compound::DB00195,CmC,Compound::DB01085,Compound,DB00195,Compound_82,13254,Betaxolol,C,Compound,DB01085,Compound_930,14102,Pilocarpine,C,24
+Compound::DB00195,CmC,Compound::DB00310,Compound,DB00195,Compound_82,13254,Betaxolol,C,Compound,DB00310,Compound_194,13366,Chlorthalidone,C,24
+Compound::DB00335,CmC,Compound::DB00310,Compound,DB00335,Compound_217,13389,Atenolol,C,Compound,DB00310,Compound_194,13366,Chlorthalidone,C,24
+Compound::DB08822,CmC,Compound::DB00310,Compound,DB08822,Compound_1455,14627,Azilsartan medoxomil,C,Compound,DB00310,Compound_194,13366,Chlorthalidone,C,24
+Compound::DB00324,CmC,Compound::DB00634,Compound,DB00324,Compound_207,13379,Fluorometholone,C,Compound,DB00634,Compound_497,13669,Sulfacetamide,C,24
+Compound::DB00359,CmC,Compound::DB01581,Compound,DB00359,Compound_240,13412,Sulfadiazine,C,Compound,DB01581,Compound_1228,14400,Sulfamerazine,C,24
+Compound::DB00586,CmC,Compound::DB00929,Compound,DB00586,Compound_449,13621,Diclofenac,C,Compound,DB00929,Compound_782,13954,Misoprostol,C,24
+Compound::DB00366,CmC,Compound::DB00165,Compound,DB00366,Compound_246,13418,Doxylamine,C,Compound,DB00165,Compound_52,13224,Pyridoxine,C,24
+Compound::DB00331,CmC,Compound::DB01132,Compound,DB00331,Compound_213,13385,Metformin,C,Compound,DB01132,Compound_976,14148,Pioglitazone,C,24
+Compound::DB00222,CmC,Compound::DB01132,Compound,DB00222,Compound_108,13280,Glimepiride,C,Compound,DB01132,Compound_976,14148,Pioglitazone,C,24
+Compound::DB06203,CmC,Compound::DB01132,Compound,DB06203,Compound_1346,14518,Alogliptin,C,Compound,DB01132,Compound_976,14148,Pioglitazone,C,24
+Compound::DB00331,CmC,Compound::DB01261,Compound,DB00331,Compound_213,13385,Metformin,C,Compound,DB01261,Compound_1098,14270,Sitagliptin,C,24
+Compound::DB00641,CmC,Compound::DB01261,Compound,DB00641,Compound_503,13675,Simvastatin,C,Compound,DB01261,Compound_1098,14270,Sitagliptin,C,24
+Compound::DB00331,CmC,Compound::DB06335,Compound,DB00331,Compound_213,13385,Metformin,C,Compound,DB06335,Compound_1366,14538,Saxagliptin,C,24
+Compound::DB06292,CmC,Compound::DB06335,Compound,DB06292,Compound_1365,14537,Dapagliflozin,C,Compound,DB06335,Compound_1366,14538,Saxagliptin,C,24
+Compound::DB00331,CmC,Compound::DB00412,Compound,DB00331,Compound_213,13385,Metformin,C,Compound,DB00412,Compound_289,13461,Rosiglitazone,C,24
+Compound::DB00222,CmC,Compound::DB00412,Compound,DB00222,Compound_108,13280,Glimepiride,C,Compound,DB00412,Compound_289,13461,Rosiglitazone,C,24
+Compound::DB00331,CmC,Compound::DB00912,Compound,DB00331,Compound_213,13385,Metformin,C,Compound,DB00912,Compound_766,13938,Repaglinide,C,24
+Compound::DB00788,CmC,Compound::DB00669,Compound,DB00788,Compound_647,13819,Naproxen,C,Compound,DB00669,Compound_531,13703,Sumatriptan,C,24
+Compound::DB08907,CmC,Compound::DB00331,Compound,DB08907,Compound_1488,14660,Canagliflozin,C,Compound,DB00331,Compound_213,13385,Metformin,C,24
+Compound::DB08882,CmC,Compound::DB00331,Compound,DB08882,Compound_1475,14647,Linagliptin,C,Compound,DB00331,Compound_213,13385,Metformin,C,24
+Compound::DB06292,CmC,Compound::DB00331,Compound,DB06292,Compound_1365,14537,Dapagliflozin,C,Compound,DB00331,Compound_213,13385,Metformin,C,24
+Compound::DB01067,CmC,Compound::DB00331,Compound,DB01067,Compound_913,14085,Glipizide,C,Compound,DB00331,Compound_213,13385,Metformin,C,24
+Compound::DB01016,CmC,Compound::DB00331,Compound,DB01016,Compound_866,14038,Glyburide,C,Compound,DB00331,Compound_213,13385,Metformin,C,24
+Compound::DB06203,CmC,Compound::DB00331,Compound,DB06203,Compound_1346,14518,Alogliptin,C,Compound,DB00331,Compound_213,13385,Metformin,C,24
+Compound::DB00584,CmC,Compound::DB01023,Compound,DB00584,Compound_447,13619,Enalapril,C,Compound,DB01023,Compound_873,14045,Felodipine,C,24
+Compound::DB00519,CmC,Compound::DB00661,Compound,DB00519,Compound_387,13559,Trandolapril,C,Compound,DB00661,Compound_523,13695,Verapamil,C,24
+Compound::DB00343,CmC,Compound::DB00584,Compound,DB00343,Compound_224,13396,Diltiazem,C,Compound,DB00584,Compound_447,13619,Enalapril,C,24
+Compound::DB01048,CmC,Compound::DB00709,Compound,DB01048,Compound_895,14067,Abacavir,C,Compound,DB00709,Compound_570,13742,Lamivudine,C,24
+Compound::DB08930,CmC,Compound::DB00709,Compound,DB08930,Compound_1497,14669,Dolutegravir,C,Compound,DB00709,Compound_570,13742,Lamivudine,C,24
+Compound::DB01395,CmC,Compound::DB00783,Compound,DB01395,Compound_1169,14341,Drospirenone,C,Compound,DB00783,Compound_643,13815,Estradiol,C,24
+Compound::DB01395,CmC,Compound::DB00977,Compound,DB01395,Compound_1169,14341,Drospirenone,C,Compound,DB00977,Compound_827,13999,Ethinyl Estradiol,C,24
+Compound::DB00304,CmC,Compound::DB00977,Compound,DB00304,Compound_188,13360,Desogestrel,C,Compound,DB00977,Compound_827,13999,Ethinyl Estradiol,C,24
+Compound::DB00608,CmC,Compound::DB01087,Compound,DB00608,Compound_471,13643,Chloroquine,C,Compound,DB01087,Compound_932,14104,Primaquine,C,24
+Compound::DB01117,CmC,Compound::DB01131,Compound,DB01117,Compound_961,14133,Atovaquone,C,Compound,DB01131,Compound_975,14147,Proguanil,C,24
+Compound::DB01438,CmC,Compound::DB01015,Compound,DB01438,Compound_1206,14378,Phenazopyridine,C,Compound,DB01015,Compound_865,14037,Sulfamethoxazole,C,24
+Compound::DB01438,CmC,Compound::DB00263,Compound,DB01438,Compound_1206,14378,Phenazopyridine,C,Compound,DB00263,Compound_148,13320,Sulfisoxazole,C,24
+Compound::DB00321,CmC,Compound::DB00475,Compound,DB00321,Compound_204,13376,Amitriptyline,C,Compound,DB00475,Compound_346,13518,Chlordiazepoxide,C,24
+Compound::DB00321,CmC,Compound::DB00850,Compound,DB00321,Compound_204,13376,Amitriptyline,C,Compound,DB00850,Compound_707,13879,Perphenazine,C,24
+Compound::DB00709,CmC,Compound::DB00300,Compound,DB00709,Compound_570,13742,Lamivudine,C,Compound,DB00300,Compound_184,13356,Tenofovir,C,24
+Compound::DB00879,CmC,Compound::DB00300,Compound,DB00879,Compound_736,13908,Emtricitabine,C,Compound,DB00300,Compound_184,13356,Tenofovir,C,24
+Compound::DB00709,CmC,Compound::DB00495,Compound,DB00709,Compound_570,13742,Lamivudine,C,Compound,DB00495,Compound_366,13538,Zidovudine,C,24
+Compound::DB00709,CmC,Compound::DB06817,Compound,DB00709,Compound_570,13742,Lamivudine,C,Compound,DB06817,Compound_1431,14603,Raltegravir,C,24
+Compound::DB06697,CmC,Compound::DB06708,Compound,DB06697,Compound_1385,14557,Artemether,C,Compound,DB06708,Compound_1396,14568,Lumefantrine,C,24
+Compound::DB00436,CmC,Compound::DB01203,Compound,DB00436,Compound_311,13483,Bendroflumethiazide,C,Compound,DB01203,Compound_1043,14215,Nadolol,C,24
+Compound::DB00232,CmC,Compound::DB01626,Compound,DB00232,Compound_118,13290,Methyclothiazide,C,Compound,DB01626,Compound_1269,14441,Pargyline,C,24
+Compound::DB08930,CmC,Compound::DB08864,Compound,DB08930,Compound_1497,14669,Dolutegravir,C,Compound,DB08864,Compound_1466,14638,Rilpivirine,C,24
+Compound::DB01089,CmC,Compound::DB00232,Compound,DB01089,Compound_934,14106,Deserpidine,C,Compound,DB00232,Compound_118,13290,Methyclothiazide,C,24
+Compound::DB01076,CmC,Compound::DB00973,Compound,DB01076,Compound_922,14094,Atorvastatin,C,Compound,DB00973,Compound_823,13995,Ezetimibe,C,24
+Compound::DB00973,CmC,Compound::DB00641,Compound,DB00973,Compound_823,13995,Ezetimibe,C,Compound,DB00641,Compound_503,13675,Simvastatin,C,24
+Compound::DB00205,CmC,Compound::DB01299,Compound,DB00205,Compound_91,13263,Pyrimethamine,C,Compound,DB01299,Compound_1119,14291,Sulfadoxine,C,24
+Compound::DB00630,CmC,Compound::DB00169,Compound,DB00630,Compound_493,13665,Alendronate,C,Compound,DB00169,Compound_56,13228,Cholecalciferol,C,24
+Compound::DB00206,CmC,Compound::DB01021,Compound,DB00206,Compound_92,13264,Reserpine,C,Compound,DB01021,Compound_871,14043,Trichlormethiazide,C,24
+Compound::DB00286,CmC,Compound::DB00603,Compound,DB00286,Compound_170,13342,Conjugated Estrogens,C,Compound,DB00603,Compound_466,13638,Medroxyprogesterone Acetate,C,24
+Compound::DB00233,CmC,Compound::DB00233,Compound,DB00233,Compound_119,13291,Aminosalicylic Acid,C,Compound,DB00233,Compound_119,13291,Aminosalicylic Acid,C,24
+Compound::DB00823,CmC,Compound::DB01357,Compound,DB00823,Compound_682,13854,Ethynodiol,C,Compound,DB01357,Compound_1151,14323,Mestranol,C,24
