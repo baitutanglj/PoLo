@@ -4,7 +4,7 @@ python transformer_classification.py \
 --test_path data/test_binary.csv \
 --entities_path data/entities_df.csv \
 --relations_path data/kg_relations.txt \
---save_dir output \
+--save_dir result \
 --batch_size 1024 \
 --epochs 20 \
 --max_len 9 \
